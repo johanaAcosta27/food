@@ -1,0 +1,45 @@
+.landing{
+    background-image: url('../../icons/landing2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    
+}
+
+.wlc{
+    color: rosybrown;
+    font-style: italic;
+    position:relative;
+    font-size: 110px;
+    text-align: left;
+    text-shadow: 6px 6px 5px white;   
+    background-color: rgb(26, 77, 16); 
+   
+}
+
+.btn {
+    cursor: pointer;
+    background: rosybrown;
+    border-radius: 15px;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 38px;
+    padding: 9px 23px 9px 23px;
+    text-decoration: none;
+    position:relative;
+    margin-top: 5%;
+    margin-left: 15px;
+    text-shadow: 3px 3px 3px black
+  }
+  
+  .btn:hover {
+    text-decoration: none;
+   background: #f2f2b1;
+   text-decoration: none;
+  cursor: pointer;
+  
+  }
